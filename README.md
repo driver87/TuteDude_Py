@@ -1,3 +1,3 @@
 # TuteDude
 TuteDude Python Assignments 
- This is a test
+ This is a folder for TuteDude Project assignments.
